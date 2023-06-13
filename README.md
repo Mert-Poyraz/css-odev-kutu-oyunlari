@@ -1,2 +1,2 @@
 # css-odev-kutu-oyunlari
-Sss Öğrenme amaçlı hazırladığım basit bir site
+##CSS Öğrenme amaçlı hazırladığım basit bir site
