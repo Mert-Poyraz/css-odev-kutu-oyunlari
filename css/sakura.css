@@ -1,0 +1,74 @@
+body {
+    /*Arka Plan*/
+    background-image: url(https://www.linkpicture.com/q/background_67.jpg);
+    background-repeat:no-repeat;
+    background-size: 170%;
+    }
+    /*********Ana Başlık Sakura3d**********/
+    .text-color{
+        color: palevioletred;
+        text-align: center;
+        font-size:64px;
+        font-family: 'Shadows Into Light', cursive;
+        
+    }/*menü başlıkları*/
+    .headings{
+        font-size:30px;
+        text-align: center;
+        text-emphasis-color: red;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    /*Başlık h2 için*/
+    .H2 {
+        color: mediumvioletred;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:32px;
+    }
+    /**** Başlık h3,*****/
+    .h3{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        text-align: center;
+
+    }
+
+    /**** youtube video ayarları****/
+    .video {
+        margin-left: 50vw;
+        transform: translate(-50%);
+        }
+    /****p ayarları*/
+    .ph {
+        color: black;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:24px;
+    }
+   
+    /***************resim ayarları***************/
+
+    .img {
+        max-width: 20%;
+        max-height: 20%;
+        margin-left: 50vw;
+        transform: translate(-50%);
+    }
+
+    /**Hakkımızda text ayarları*/
+.hk {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 40%;    
+}
+.hk2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 120%;
+    
+}
+body
+
+
